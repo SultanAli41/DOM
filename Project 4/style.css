@@ -1,0 +1,42 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box; 
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+.main {
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    color: white;
+}
+
+.elem {
+    position: relative;
+    height: 150px;
+    width: 100%;
+    border-bottom: 2px solid white;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+}
+
+.elem h1 {
+    font-size: 6vw;
+}
+.elem img {
+    position: absolute;
+    height: 152px;
+    width: 152px;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: center;
+    mix-blend-mode: difference;
+    opacity: 0;
+    transition: all linear 0.5s;
+}
