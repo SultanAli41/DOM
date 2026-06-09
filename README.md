@@ -1,7 +1,7 @@
 # 🌐 DOM Mini Projects
 
 Welcome to the **DOM Projects** repository!  
-This collection showcases a series of **interactive web components and visual effects** built using **Vanilla JavaScript** and **DOM (Document Object Model) manipulation**.
+This collection showcases a series of **interactive web components and visual effects** built using **Vanilla JavaScript** and **DOM (Document Object Model) manipulation**
 
 Each folder contains a standalone project that demonstrates practical JavaScript concepts and creative front-end implementation.
 
